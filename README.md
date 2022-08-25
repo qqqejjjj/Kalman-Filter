@@ -7,7 +7,7 @@ https://www.bilibili.com/video/BV1ez4y1X7eR?spm_id_from=333.337.search-card.all.
 ### 1.2 Creating a simple robotic arm using a STM32F103RB Nucleo 64  
 
 #### 1.2.1 the detailed wiring connection and some hardware basics
-this part is based on above articles:
+this part is based on below articles:
 
 MPU6050:
 
